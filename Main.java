@@ -1,3 +1,9 @@
+// == CS400 Summer 2024 File Header Information ==
+// Name: Kelly Sui
+// Email: sui23@wisc.edu
+// CS account user name: xsui
+// Lecturer: Jiazhen Zhou
+
 /*
  * Test the use of the Color method
  */
